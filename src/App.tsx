@@ -1,11 +1,9 @@
 import type { Component } from 'solid-js';
-import Comp from './Comp';
 
 const App: Component = () => {
   return (
     <>
-      <h1>Hello world!!!!</h1>
-      <Comp />
+      <h2>Select Color</h2>
     </>
   );
 };
