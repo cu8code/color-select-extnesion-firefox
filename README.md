@@ -4,6 +4,7 @@ build a basic color pallate generator
 
 ## Study Materials
 - [basic guid to setup extension in firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
+- example manifest
 ```json 
   {
     "name": "UUID Generator",
